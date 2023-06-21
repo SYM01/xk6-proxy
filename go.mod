@@ -1,4 +1,4 @@
-module github.com/sym01/k6-proxy
+module github.com/sym01/xk6-proxy
 
 go 1.19
 

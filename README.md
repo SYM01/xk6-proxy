@@ -1,4 +1,4 @@
-# k6-proxy
+# xk6-proxy
 
 A [k6](https://k6.io/) that allow you to dynamic change the proxy settings
 
@@ -21,7 +21,7 @@ go install go.k6.io/xk6/cmd/xk6@latest
 2. Build your `k6` binnary.
 
 ```bash
-xk6 build --with github.com/sym01/k6-proxy
+xk6 build --with github.com/sym01/xk6-proxy
 ```
 
 ## Example
